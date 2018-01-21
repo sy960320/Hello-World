@@ -3,18 +3,23 @@
 
 This is my first time to create a webpage, so pretty excited right now !!!
 
-## To People:
+# To People:
 
 I have something to say!
 
 A girl site from me looks like 石原さとみ after she make up!
 
+# To Wong Ga Wei
+
+you looks so fuckin handsome:
+
+
+
 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link](url) and ![Image]
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
