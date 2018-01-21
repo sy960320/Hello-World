@@ -9,10 +9,6 @@ I have something to say!
 
 Zi Qi Ye, You are so fuckin beatiful!!
 
-![2057803709](https://user-images.githubusercontent.com/35379105/35197603-04158818-feb8-11e7-8281-cb7c59c78088.jpg) 
-
-
-
 A girl site from me looks like 石原さとみ after she make up!
 
 # To Wong Ga Wei
