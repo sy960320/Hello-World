@@ -15,6 +15,9 @@ A girl site from me looks like 石原さとみ after she make up!
 
 you looks so fuckin handsome!!
 
+# To Xue Chao
+午安哦，我噶理
+
 
 
 
