@@ -1,25 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sy960320/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# First Time:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my first time to create a webpage, so pretty excited right now !!!
 
-### Markdown
+## To People:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have something to say!
 
-```markdown
-Syntax highlighted code block
+A girl site from me looks like 石原さとみ after she make up!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
